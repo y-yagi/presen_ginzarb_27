@@ -1,0 +1,11 @@
+{
+  "generator-reveal": {
+    "presentationTitle": "Web API yomoyama",
+    "packageVersion": "0.0.0",
+    "revealTheme": "solarized",
+    "useSass": false,
+    "deployToGithubPages": true,
+    "githubUsername": "y-yagi",
+    "githubRepository": "presen_ginzarb_27"
+  }
+}
