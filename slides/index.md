@@ -1,10 +1,4 @@
 
-# Web API yomoyama
+## Web API 四方山話
 
-From the terminal, pop in:
-
-  ```yo reveal:slide "Slide Title"```
-
-Available options:
-
- ```--markdown --attributes --notes```
+Ginzarb 第27回 / @y-yagi
