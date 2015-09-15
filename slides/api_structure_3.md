@@ -1,4 +1,4 @@
 ## 構成
 
-* routes.rbも分けてる
-* ![structure](resources/img/structure_2.png)
+* model / controller それぞれにapiディレクトリをきって、APIに関するファイルはそこにまとめている
+* ![structure](resources/img/structure_1.png)

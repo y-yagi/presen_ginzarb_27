@@ -1,13 +1,4 @@
-## APIのバージョニング
+## 構成
 
-* urlにバージョンを含んでいる
-```ruby
-namespace :api do
-    namespace :v1 do
-        resources :travels, only: %i(index show)
-        resources :places, only: %i(index)
-    end
-end
-```
-* よくあるやつ
-* 非互換が発生した場合、随時バージョン変えてる
+* routes.rbも分けてる
+* ![structure](resources/img/structure_2.png)
